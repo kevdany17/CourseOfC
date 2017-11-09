@@ -1,6 +1,6 @@
 [Project]
-FileName=Dia02.dev
-Name=Dia02
+FileName=Dia03.dev
+Name=Dia03
 Type=1
 Ver=2
 ObjFiles=
@@ -50,21 +50,8 @@ ProductVersion=
 AutoIncBuildNr=0
 SyncProduct=1
 
-[Unit3]
-FileName=Constantes.c
-
-[Unit2]
-FileName=condicion.c
-CompileCpp=0
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
 [Unit1]
-FileName=condicion.c
+FileName=do-whlile.c
 CompileCpp=0
 Folder=
 Compile=1
