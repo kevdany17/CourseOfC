@@ -13,7 +13,7 @@ int main()
     float monto,descuento,compra;
     char salida;
     do{
-    printf("ingresa el monto ");
+    printf("Ingresa el Monto");
     scanf("%f",&monto);
     if (monto>0)
     {
@@ -24,7 +24,7 @@ int main()
             descuento=monto*0.10;
         }
         compra=monto-descuento;
-        printf (" el total de su compra es %f ",compra);
+        printf ("El total de la Compra es: %4.2f ",compra);
     }
     else {
         printf ("la cantidad ingresada es negativa ");
