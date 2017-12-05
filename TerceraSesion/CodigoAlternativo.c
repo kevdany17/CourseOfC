@@ -13,7 +13,7 @@ int main()
     float monto,descuento,compra;
     char salida;
     do{
-    printf("ingresa el monto ");
+    printf("Ingresa la Cantidad ");
     scanf("%f",&monto);
     if (monto>0)
     {

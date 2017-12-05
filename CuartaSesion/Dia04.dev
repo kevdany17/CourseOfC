@@ -1,6 +1,6 @@
 [Project]
-FileName=Problema1.dev
-Name=Problema1
+FileName=Dia04.dev
+Name=Dia04
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=CodigoAlternativo.c
+FileName=calificaciones.c
 CompileCpp=0
 Folder=
 Compile=1
